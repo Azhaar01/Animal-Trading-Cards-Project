@@ -1,0 +1,27 @@
+/* add your CSS here */
+#img {
+  width : 300px;
+}
+
+#fact {
+  font-style: italic;
+}
+
+.headlist {
+  font-weight : bold;
+}
+
+ul {
+  list-style : none;
+}
+
+#border{
+   border : 1px solid gray;
+   padding : 15px;
+   width : 300px;
+   background-color : lightgray;
+}
+
+#border2 {
+   border : 1px solid gray; 
+}
