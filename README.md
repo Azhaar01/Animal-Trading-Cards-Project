@@ -18,10 +18,3 @@ The goal of this project is to create a visually appealing trading card for an a
 
 - **HTML**: For structuring the content of the trading card.
 - **CSS**: For styling the card to enhance its appearance.
-
-## How to View the Project
-
-1. Clone the repository:
-   ```bash
-   git clone <repository-link>
-   cd animal-trading-cards
